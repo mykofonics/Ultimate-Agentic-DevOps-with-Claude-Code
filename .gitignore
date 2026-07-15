@@ -1,0 +1,6 @@
+.terraform
+.claude/settings.local.json
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+.claude/deploy.log
+**/.terraform/*
